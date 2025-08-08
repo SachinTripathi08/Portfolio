@@ -3,7 +3,7 @@
 Welcome to **TechPortfolio**, the personal website of **Sachin Tripathi** — a final-year Computer Science B.Tech student specializing in Full Stack Development, Java, and Cloud Computing.
 
 ##  Live Preview
-*(Add the deployed link here if available, e.g., GitHub Pages, Netlify, or Vercel)*  
+ 
 [View the live site →](#)
 
 ---
